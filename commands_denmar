@@ -1,0 +1,14 @@
+Application Installations
+
+sudo apt-get tweaks
+sudo apt-get install audacity
+
+sudo ./DaVinci_Resolve_Studio_17.4.2_Linux.run -i
+sudo apt install ./code_1.62.3-1637137107_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+sudo apt install ./discord-0.0.16.deb
+
+Sound change
+
+sudo cp /home/denmar/Documents/Metro_Doudoudou.oga /usr/share/sounds/yaru/stereo/device-added.oga
+sudo cp /home/denmar/Documents/203.oga /usr/share/sounds/yaru/stereo/device-removed.oga
